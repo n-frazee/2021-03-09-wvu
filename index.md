@@ -339,7 +339,9 @@ further. To use this custom schedule here, replace the block
 of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
+{% include custom-schedule.html %}
 
+{% comment %}
 <h2 id="schedule">Schedule</h2>
 
 {% if site.carpentry == "swc" %}
@@ -351,7 +353,7 @@ of code below the Schedule `<h2>` header below with
 {% endif %}
 
 <hr/>
-
+{% endcomment %}
 
 {% comment %}
 SETUP
