@@ -12,8 +12,8 @@ humandate: "March 9 - March 18, 2021"    # human-readable dates for the workshop
 humantime: "1:00 pm - 5:00 pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2021-03-18     # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2021-03-18     # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Aditya Bandla", "Elnaz Amanzadeh Jajin", "Sally Chang"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Nicolas Frazee"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Aditya Bandla", "Sally Chang"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Nicolas Frazee", "Vivian Guetler"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["ncf0003@mix.wvu.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2021-03-09-wvu # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:   136506202727        # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
